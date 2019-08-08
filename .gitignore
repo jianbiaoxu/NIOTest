@@ -1,0 +1,27 @@
+# eclipse
+.settings/
+**/.settings/
+.project
+**/.project
+.classpath
+**/.classpath
+
+# IntelliJ
+*.iml
+**/*.iml
+
+# 
+.gradle/
+**/.gradle/
+target/
+**/target/
+bin/
+**/bin/
+.idea/
+build/
+**/build/
+classes/**
+**/META-INF/
+out/
+application-local.yml
+generatorConfig.xml
